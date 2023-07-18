@@ -38,7 +38,6 @@ Valid
 ## Constraints
 
 - 1 pilot (coding) + 1 co-pilot (helping) + rest in silence.
-- No passing of primitives between methods as parameters or return types.
 - Do not use “else”.
 - No more than 2 parameters per method.
 
